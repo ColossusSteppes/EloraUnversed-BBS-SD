@@ -1,0 +1,4279 @@
+title: Elora Unversed Colors (Standard Quality)
+originalAuthor: ColossusSteppes
+description: (Standard Quality Version) Mixes Vanilla and FM Unversed Colors. Uses Mikote111's Vanilla Unversed mod as a base.
+game: bbs
+specifications: 0
+dependencies: 
+assets:
+- name: effect\event\kg\d_kg_154.fep
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: effect\event\kg\d_kg_154.fep
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b11sb\00\b11sb00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\boss\b11sb\00\b11sb00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b11vs\00\b11vs00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\boss\b11vs\00\b11vs00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b11vs\00\b11vs00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\boss\b11vs\00\b11vs00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b12sb\00\b12sb00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\boss\b12sb\00\b12sb00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b12vs\00\b12vs00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\boss\b12vs\00\b12vs00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b12vs\00\b12vs00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\boss\b12vs\00\b12vs00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b13vs\00\b13vs00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\boss\b13vs\00\b13vs00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b13vs\00\b13vs00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\boss\b13vs\00\b13vs00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b14vs\00\b14vs00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\boss\b14vs\00\b14vs00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m01ex\00\m01ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m01ex\00\m01ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m02ex\00\m02ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m02ex\00\m02ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m06ex\00\m06ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m06ex\00\m06ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m07ex\00\m07ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m07ex\00\m07ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m09ex\00\m09ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m09ex\00\m09ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m12ex\00\m12ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m12ex\00\m12ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m14ex\00\m14ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m14ex\00\m14ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m15ex\00\m15ex00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m15ex\00\m15ex00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m15ex\00\m15ex00.pmo\-2.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m15ex\00\m15ex00.pmo\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m16ex\00\m16ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m16ex\00\m16ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m18ex\00\m18ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m18ex\00\m18ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m19ex\00\m19ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m19ex\00\m19ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m20ex\00\m20ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m20ex\00\m20ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m25ex\00\m25ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m25ex\00\m25ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m25ex\00\m25ex00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m25ex\00\m25ex00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m27ex\00\m27ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m27ex\00\m27ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m28ex\00\m28ex00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m28ex\00\m28ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc3.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc4.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc5.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc6.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc6.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc7.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01cd00d.arc\JP_b01cd00d_arc7.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01rg00d.arc\JP_b01rg00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01rg00d.arc\JP_b01rg00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc10.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc10.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc11.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc11.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc3.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc4.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc5.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc6.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc6.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc7.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc7.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc8.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc9.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b01vs00d.arc\JP_b01vs00d_arc9.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b02cd00d.arc\JP_b02cd00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b02cd00d.arc\JP_b02cd00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b02rg00d.arc\JP_b02rg00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b02rg00d.arc\JP_b02rg00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b03cd00d.arc\JP_b03cd00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b03cd00d.arc\JP_b03cd00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b03rg00d.arc\JP_b03rg00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b03rg00d.arc\JP_b03rg00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b04cd00d.arc\JP_b04cd00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b04cd00d.arc\JP_b04cd00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b04rg00d.arc\JP_b04rg00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b04rg00d.arc\JP_b04rg00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b05rg00d.arc\JP_b05rg00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b05rg00d.arc\JP_b05rg00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b06rg00d.arc\JP_b06rg00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b06rg00d.arc\JP_b06rg00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b07rg00d.arc\JP_b07rg00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b07rg00d.arc\JP_b07rg00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b08rg00d.arc\JP_b08rg00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b08rg00d.arc\JP_b08rg00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc3.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc4.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc5.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc6.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc6.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc7.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc7.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc8.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10cd00d.arc\JP_b10cd00d_arc8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc3.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc4.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc5.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc6.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10sb00d.arc\JP_b10sb00d_arc6.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10vs00d.arc\JP_b10vs00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10vs00d.arc\JP_b10vs00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b10vs00d.arc\JP_b10vs00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b10vs00d.arc\JP_b10vs00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b11sb00d.arc\JP_b11sb00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b11sb00d.arc\JP_b11sb00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b11vs00d.arc\JP_b11vs00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b11vs00d.arc\JP_b11vs00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b11vs00d.arc\JP_b11vs00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b11vs00d.arc\JP_b11vs00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b12sb00d.arc\JP_b12sb00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b12sb00d.arc\JP_b12sb00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b12vs00d.arc\JP_b12vs00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b12vs00d.arc\JP_b12vs00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b12vs00d.arc\JP_b12vs00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b12vs00d.arc\JP_b12vs00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b13vs00d.arc\JP_b13vs00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b13vs00d.arc\JP_b13vs00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b13vs00d.arc\JP_b13vs00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b13vs00d.arc\JP_b13vs00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\boss\b14vs00.arc\JP_b14vs00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\boss\b14vs00.arc\JP_b14vs00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m01ex00d.arc\JP_m01ex00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m01ex00d.arc\JP_m01ex00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m01ex00d.arc\JP_m01ex00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m01ex00d.arc\JP_m01ex00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m02ex00d.arc\JP_m02ex00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m02ex00d.arc\JP_m02ex00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m06ex00.arc\JP_m06ex00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m06ex00.arc\JP_m06ex00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m07dc00.arc\JP_m07dc00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m07dc00.arc\JP_m07dc00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m07dc00.arc\JP_m07dc00_arc1.png
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m07dc00.arc\JP_m07dc00_arc1.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m07dc00.arc\JP_m07dc00_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m07dc00.arc\JP_m07dc00_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m07ex00d.arc\JP_m07ex00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m07ex00d.arc\JP_m07ex00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m09ex00d.arc\JP_m09ex00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m09ex00d.arc\JP_m09ex00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m12ex00.arc\JP_m12ex00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m12ex00.arc\JP_m12ex00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m14ex00d.arc\JP_m14ex00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m14ex00d.arc\JP_m14ex00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m15ex00.arc\JP_m15ex00_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m15ex00.arc\JP_m15ex00_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m15ex00.arc\JP_m15ex00_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m15ex00.arc\JP_m15ex00_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m16ex00.arc\JP_m16ex00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m16ex00.arc\JP_m16ex00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m18ex00.arc\JP_m18ex00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m18ex00.arc\JP_m18ex00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m19ex00.arc\JP_m19ex00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m19ex00.arc\JP_m19ex00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m20ex00d.arc\JP_m20ex00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m20ex00d.arc\JP_m20ex00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m25ex00d.arc\JP_m25ex00d_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m25ex00d.arc\JP_m25ex00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m25ex00d.arc\JP_m25ex00d_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m25ex00d.arc\JP_m25ex00d_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m26ex00.arc\JP_m26ex00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m26ex00.arc\JP_m26ex00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m26ex00.arc\JP_m26ex00_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m26ex00.arc\JP_m26ex00_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m27ex00.arc\JP_m27ex00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m27ex00.arc\JP_m27ex00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m28ex00.arc\JP_m28ex00_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m28ex00.arc\JP_m28ex00_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b01rg01PV.arc\JP_b01rg01PV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b01rg01PV.arc\JP_b01rg01PV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b01rgPV.arc\JP_b01rgPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b01rgPV.arc\JP_b01rgPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b01rgPV.arc\JP_b01rgPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b01rgPV.arc\JP_b01rgPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b01rgPV.arc\JP_b01rgPV_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b01rgPV.arc\JP_b01rgPV_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b01rgPV.arc\JP_b01rgPV_arc3.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b01rgPV.arc\JP_b01rgPV_arc3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b01vsPV.arc\JP_b01vsPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b01vsPV.arc\JP_b01vsPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b01vsPV.arc\JP_b01vsPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b01vsPV.arc\JP_b01vsPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b04rgPV.arc\JP_b04rgPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b04rgPV.arc\JP_b04rgPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b05rgPV.arc\JP_b05rgPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b05rgPV.arc\JP_b05rgPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b10cdPV.arc\JP_b10cdPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b10cdPV.arc\JP_b10cdPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b10cdPV.arc\JP_b10cdPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b10cdPV.arc\JP_b10cdPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b10sbPV.arc\JP_b10sbPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b10sbPV.arc\JP_b10sbPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b10sbPV.arc\JP_b10sbPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b10sbPV.arc\JP_b10sbPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b10sbPV.arc\JP_b10sbPV_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b10sbPV.arc\JP_b10sbPV_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b10sbPV.arc\JP_b10sbPV_arc3.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b10sbPV.arc\JP_b10sbPV_arc3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b10vsPV.arc\JP_b10vsPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b10vsPV.arc\JP_b10vsPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b10vsPV.arc\JP_b10vsPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b10vsPV.arc\JP_b10vsPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b11vsPV.arc\JP_b11vsPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b11vsPV.arc\JP_b11vsPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b11vsPV.arc\JP_b11vsPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b11vsPV.arc\JP_b11vsPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b12vsPV.arc\JP_b12vsPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b12vsPV.arc\JP_b12vsPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b12vsPV.arc\JP_b12vsPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b12vsPV.arc\JP_b12vsPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b13vsPV.arc\JP_b13vsPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b13vsPV.arc\JP_b13vsPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\b13vsPV.arc\JP_b13vsPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\b13vsPV.arc\JP_b13vsPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m01exPV.arc\JP_m01exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m01exPV.arc\JP_m01exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m02exPV.arc\JP_m02exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m02exPV.arc\JP_m02exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m06exPV.arc\JP_m06exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m06exPV.arc\JP_m06exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m07exPV.arc\JP_m07exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m07exPV.arc\JP_m07exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m09exPV.arc\JP_m09exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m09exPV.arc\JP_m09exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m12exPV.arc\JP_m12exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m12exPV.arc\JP_m12exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m14ex01PV.arc\JP_m14ex01PV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m14ex01PV.arc\JP_m14ex01PV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m14exPV.arc\JP_m14exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m14exPV.arc\JP_m14exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m15ex01PV.arc\JP_m15ex01PV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m15ex01PV.arc\JP_m15ex01PV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m15ex01PV.arc\JP_m15ex01PV_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m15ex01PV.arc\JP_m15ex01PV_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m15ex02PV.arc\JP_m15ex02PV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m15ex02PV.arc\JP_m15ex02PV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m15ex02PV.arc\JP_m15ex02PV_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m15ex02PV.arc\JP_m15ex02PV_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m15exPV.arc\JP_m15exPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m15exPV.arc\JP_m15exPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m15exPV.arc\JP_m15exPV_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m15exPV.arc\JP_m15exPV_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m16exPV.arc\JP_m16exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m16exPV.arc\JP_m16exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m18exPV.arc\JP_m18exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m18exPV.arc\JP_m18exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m19exPV.arc\JP_m19exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m19exPV.arc\JP_m19exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m20exPV.arc\JP_m20exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m20exPV.arc\JP_m20exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m20exPV.arc\JP_m20exPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m20exPV.arc\JP_m20exPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m20exPV.arc\JP_m20exPV_arc2.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m20exPV.arc\JP_m20exPV_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m22exPV.arc\JP_m22exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m22exPV.arc\JP_m22exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m24ex00PV.arc\JP_m24ex00PV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m24ex00PV.arc\JP_m24ex00PV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m24ex01PV.arc\JP_m24ex01PV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m24ex01PV.arc\JP_m24ex01PV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m24ex02PV.arc\JP_m24ex02PV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m24ex02PV.arc\JP_m24ex02PV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m25exPV.arc\JP_m25exPV_arc0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m25exPV.arc\JP_m25exPV_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m25exPV.arc\JP_m25exPV_arc1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m25exPV.arc\JP_m25exPV_arc1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b01cd\00\b01cd00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b01cd\00\b01cd00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b01cd\00\b01cd00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b01cd\00\b01cd00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b01rg\00\b01rg00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b01rg\00\b01rg00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b01vs\00\b01vs00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b01vs\00\b01vs00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b01vs\00\b01vs00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b01vs\00\b01vs00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b02cd\00\b02cd00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b02cd\00\b02cd00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b02rg\00\b02rg00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b02rg\00\b02rg00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b03cd\00\b03cd00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b03cd\00\b03cd00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b03rg\00\b03rg00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b03rg\00\b03rg00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b04cd\00\b04cd00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b04cd\00\b04cd00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b04rg\00\b04rg00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b04rg\00\b04rg00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b05rg\00\b05rg00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b05rg\00\b05rg00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b06rg\00\b06rg00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b06rg\00\b06rg00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b07rg\00\b07rg00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b07rg\00\b07rg00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b08rg\00\b08rg00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b08rg\00\b08rg00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b10cd\00\b10cd00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b10cd\00\b10cd00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b10cd\00\b10cd00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b10cd\00\b10cd00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b10sb\00\b10sb00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b10sb\00\b10sb00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b10sb\00\b10sb00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b10sb\00\b10sb00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b10vs\00\b10vs00.pmo\-0.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b10vs\00\b10vs00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\boss\b10vs\00\b10vs00.pmo\-1.dds
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\chara\boss\b10vs\00\b10vs00.pmo\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
